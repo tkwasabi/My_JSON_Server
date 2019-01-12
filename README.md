@@ -28,7 +28,7 @@
   http://localhost:3000/list
   
 - GET / POST  
-  - GET
+  - GET  
     GET http://localhost:3000/list
-  - POST
+  - POST  
     POST http://localhost:3000/list -d name=test
